@@ -220,77 +220,53 @@ hr::before {
   0% {
     transform: translate3d(0, 0em, 0);
   }
-  4% {
+  5.8823529412% {
     transform: translate3d(0, -1.8em, 0);
   }
-  8% {
+  11.7647058824% {
     transform: translate3d(0, -3.6em, 0);
   }
-  12% {
+  17.6470588235% {
     transform: translate3d(0, -5.4em, 0);
   }
-  16% {
+  23.5294117647% {
     transform: translate3d(0, -7.2em, 0);
   }
-  20% {
+  29.4117647059% {
     transform: translate3d(0, -9em, 0);
   }
-  24% {
+  35.2941176471% {
     transform: translate3d(0, -10.8em, 0);
   }
-  28% {
+  41.1764705882% {
     transform: translate3d(0, -12.6em, 0);
   }
-  32% {
+  47.0588235294% {
     transform: translate3d(0, -14.4em, 0);
   }
-  36% {
+  52.9411764706% {
     transform: translate3d(0, -16.2em, 0);
   }
-  40% {
+  58.8235294118% {
     transform: translate3d(0, -18em, 0);
   }
-  44% {
+  64.7058823529% {
     transform: translate3d(0, -19.8em, 0);
   }
-  48% {
+  70.5882352941% {
     transform: translate3d(0, -21.6em, 0);
   }
-  52% {
+  76.4705882353% {
     transform: translate3d(0, -23.4em, 0);
   }
-  56% {
+  82.3529411765% {
     transform: translate3d(0, -25.2em, 0);
   }
-  60% {
+  88.2352941176% {
     transform: translate3d(0, -27em, 0);
   }
-  64% {
+  94.1176470588% {
     transform: translate3d(0, -28.8em, 0);
-  }
-  68% {
-    transform: translate3d(0, -30.6em, 0);
-  }
-  72% {
-    transform: translate3d(0, -32.4em, 0);
-  }
-  76% {
-    transform: translate3d(0, -34.2em, 0);
-  }
-  80% {
-    transform: translate3d(0, -36em, 0);
-  }
-  84% {
-    transform: translate3d(0, -37.8em, 0);
-  }
-  88% {
-    transform: translate3d(0, -39.6em, 0);
-  }
-  92% {
-    transform: translate3d(0, -41.4em, 0);
-  }
-  96% {
-    transform: translate3d(0, -43.2em, 0);
   }
   100% {
     transform: translate3d(0, 0%, 0);
@@ -310,7 +286,7 @@ hr::before {
   margin-left: 0.6em;
 }
 #likes ul li {
-  animation: ticker 25s cubic-bezier(1, 0, 0.5, 0) infinite;
+  animation: ticker 17s cubic-bezier(1, 0, 0.5, 0) infinite;
 }
 
 footer {
